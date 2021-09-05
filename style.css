@@ -1,0 +1,102 @@
+html{scroll-behavior: smooth;}
+/* header start */
+.header-menu{
+    background: #fafafa;
+}
+.header-menu ul li a:hover{
+    color: #000;
+    cursor: pointer;
+    transition: .3s;
+}
+.header-logo{
+    vertical-align: middle;
+    width: 56px;
+}
+.small, small {
+    font-size: .875em;
+    margin-left: 126px;
+}
+.bg-ol{
+    background: #e9ecef;
+}
+.header-bottom .alert {
+    padding: 0;
+    margin: 0;
+    margin-top: 15px;
+    padding: 11px 0;
+    border: 0;
+  
+}
+.box-shadow {
+    box-shadow: 0px 0px 9px -3px #767;
+}
+
+.test{
+    margin-top: 47px;
+}
+ 
+.sroll-div{
+   height: 200px;
+   overflow-y: scroll;
+}
+
+.scrollspy-example {
+    position: relative;
+    height: 160px;
+    overflow: auto;
+}
+
+
+
+/* header end */
+
+/* banner start */
+.banner-img{
+    height: 650px;
+}
+title{}
+/* banner end */
+
+
+/* service section start */
+.justify-content-center {
+    justify-content: center!important;
+    margin-left: 444px;
+}
+
+.verse-1{
+    /* margin-left: 50px; */
+    margin-left: 983px;
+}
+.verse-2{}
+
+.project-name{
+    background: #e9ecef;
+    padding: 10px;
+    border-radius: 5px;
+}
+.project-h {
+    line-height: 38px;
+    font-weight: 600;
+}
+
+.hide-img::after{
+    display: none;
+}
+
+.hover:hover{
+    text-decoration: underline;
+    transition: .3s;
+   
+}
+
+
+
+/* service section end */
+
+
+/* footer */
+footer p{
+    background-color: #17a2b8;
+}
+/* footer end*/
